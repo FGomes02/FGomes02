@@ -2,12 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/FGomes02/count.svg?"  />
-</div>
-
-###
-
 <p align="left">🚀 My name is Francisco and I'm a Software Developer from Lisbon.</p>
 
 ###
@@ -64,6 +58,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/FGomes02/count.svg?"  />
 </div>
 
 ###
