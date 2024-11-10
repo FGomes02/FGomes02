@@ -2,7 +2,13 @@
 
 ###
 
-<p align="left">My name is Francisco and I'm a Software Developer from Lisbon.</p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/FGomes02/count.svg?"  />
+</div>
+
+###
+
+<p align="left">🚀 My name is Francisco and I'm a Software Developer from Lisbon.</p>
 
 ###
 
@@ -10,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Working with Python and Flutter.<br>📚 I'm currently learning AI and Solidity.</p>
 
 ###
 
