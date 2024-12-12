@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Working with Python and Flutter.<br>📚 I'm currently learning AI and Solidity.</p>
+<p align="left">✨ Working with Python and Flutter.<br>📚 I'm currently learning Blockchain and Smart Contracts.</p>
 
 ###
 
